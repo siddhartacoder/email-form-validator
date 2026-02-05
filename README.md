@@ -3,7 +3,7 @@
 - A lightweight email form simulator built with vanilla JavaScript, featuring real-time validation, dynamic error handling, and loading states. 
 
 ## Live Demo
-Coming soon - will be added after Vercel deployment
+https://email-form-validator.vercel.app/
 
 ## How to Run Locally
 
